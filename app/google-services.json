@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871367584367",
+    "project_id": "smart-greenhouse-b168f",
+    "storage_bucket": "smart-greenhouse-b168f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871367584367:android:810d149f5b0fffd1b43b9a",
+        "android_client_info": {
+          "package_name": "com.example.smartgreenhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871367584367-r51esqsodovankorb6uj0inqhkdmhnfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBViJ9atK29dhNzpLHiFwkgZ5J0rNdUhBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871367584367-r51esqsodovankorb6uj0inqhkdmhnfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
